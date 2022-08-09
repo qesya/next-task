@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bczRLJ kXcazA"
+  >
+    <div
+      class="sc-bczRLJ sc-hKMtZM jNgGJB eYeKUE"
+    >
+      <input
+        class="sc-eCYdqJ bSDTdO"
+        placeholder="Search"
+        value=""
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

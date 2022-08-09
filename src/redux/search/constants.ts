@@ -1,0 +1,5 @@
+export const SET_KEYWORD = 'SET_KEYWORD';
+export const SET_LIMIT = 'SET_LIMIT';
+export const FETCH_DATA_LOADING = 'FETCH_DATA_LOADING';
+export const FETCH_DATA_SUCCESS = 'FETCH_DATA_SUCCESS';
+export const FETCH_DATA_ERROR = 'FETCH_DATA_ERROR';
